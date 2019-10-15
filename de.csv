@@ -1,8 +1,4 @@
-% Model,HUR_model_weather_Helsinki_.mph
-% Version,COMSOL 5.4.0.388
-% Date,"Oct 14 2019, 18:28"
-% Table,Table 12 - Line Average 10 (ht.rho)
-% Time (h),Density (kg/m^3)
+Time (h),Density (kg/m^3)
 0,850.0000000000003
 1,850.0000000000003
 2,850.0000000000003
